@@ -1,6 +1,10 @@
 program Cryme;
+Type
+	
+
 var
 	opcao: Integer;
+
 
 begin
 
