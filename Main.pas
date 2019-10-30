@@ -1,11 +1,10 @@
 program Cryme;
-Type
-	
+
 
 var
 	opcao: Integer;
 
 
 begin
-
+	Writeln('Hello world');
 end.
