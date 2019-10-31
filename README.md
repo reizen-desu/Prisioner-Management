@@ -8,4 +8,6 @@ This small project will initially be developed in my native language (Portuguese
 ### Tools used:
 - [Sublime Text 3](https://www.sublimetext.com/3)
 - [Free Pascal Compiler](https://www.freepascal.org/download.var)
-- 
+
+### Why?
+This is my first official school project. Despite it emating a kind of newbish-like feeling, I'm quite proud of it... slight.
