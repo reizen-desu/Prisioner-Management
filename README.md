@@ -24,6 +24,7 @@ The following subtopics will briefly give an idea of how the program will presen
 ##### Main Menu
 - [ ] Prisoners
 - [ ] Visitors
+- [ ] Overview
 - [ ] Configuration
 - [ ] Help
 
