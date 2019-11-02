@@ -28,8 +28,11 @@ The source-code will be concentrated on a single file. The essence of the job be
 - [ ] List
 - [ ] Modify
 - [ ] Release
+- [ ] Delete
 - [ ] Search
 
-
-
+##### Visitors
+- [ ] Register
+- [ ] Make Visit
+- [ ] End Visit
 - [ ] 
