@@ -1,4 +1,4 @@
-## Prisioner Management
+## Prisoner Management
  Simple project that will manage prisoners and visitors in a detention center. Written in Pascal.
 
 
@@ -10,4 +10,7 @@ This small project will initially be developed in my native language (Portuguese
 - [Free Pascal Compiler](https://www.freepascal.org/download.var)
 
 ### Why?
-This is my first official school project. Despite it emating a kind of newbish-like feeling, I'm quite proud of it... slight.
+This is my first official school project. Despite it emanating a kind of newbie-like feeling, I'm quite proud of it... slight.
+
+### Source-code
+The source-code will be concentrated on a single file. The essence of the job being small, I didn't (yet) see the necessity of diving it on modules. 
