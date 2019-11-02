@@ -1,9 +1,5 @@
 program Cryme;
-
-
-var
-	opcao: Integer;
-
+uses Crt, SysUtils, DateUtils, DOS;
 
 begin
 	Writeln('Hello world');
