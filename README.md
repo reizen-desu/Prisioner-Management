@@ -15,7 +15,7 @@ This is my first official school project. Despite it emanating a kind of newbie-
 #### Source-code
 The source-code will be concentrated on a single file. The essence of the job being small, I didn't (yet) see the necessity of diving it on modules.
 
-### Structure of the program :octocat:
+### Structure of the program :fire:
 
 ##### Main Menu
 - [ ] Prisoners
@@ -38,4 +38,9 @@ The source-code will be concentrated on a single file. The essence of the job be
 - [ ] List
 - [ ] Delete Visit
 
-#### Configuration
+##### Configuration
+- [ ] Set up operator 
+- [ ] 
+- [ ] Change user-name/password
+- [ ] Backup
+- [ ] Erase everything
