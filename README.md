@@ -35,4 +35,5 @@ The source-code will be concentrated on a single file. The essence of the job be
 - [ ] Register
 - [ ] Make Visit
 - [ ] End Visit
-- [ ] 
+- [ ] List
+- [ ] Delete Visit
