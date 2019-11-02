@@ -37,3 +37,5 @@ The source-code will be concentrated on a single file. The essence of the job be
 - [ ] End Visit
 - [ ] List
 - [ ] Delete Visit
+
+#### Configuration
