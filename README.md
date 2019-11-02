@@ -18,7 +18,7 @@ The source-code will be concentrated on a single file. The essence of the job be
 ### Structure of the program :octocat:
 
 ##### Main Menu
-- [] 
-- [] 
-- [] 
-- [] 
+- [] Prisoners
+- [] Visitors
+- [] Configuration
+- [] Help
