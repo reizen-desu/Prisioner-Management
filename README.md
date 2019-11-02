@@ -14,6 +14,8 @@ This is my first official school project. Despite it emanating a kind of newbie-
 
 ### Structure of the program :fire:
 The following subtopics will briefly give an idea of how the program will present the Menus. The "First Run" is executed only once and the next times the program starts normally. 
+- [ ] Means the feature is not currently available.
+- [x] Means the feature works normally. 
 
 ##### First Run
 - [ ] Create administrator account
