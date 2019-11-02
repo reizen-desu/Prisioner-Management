@@ -1,8 +1,12 @@
-program Cryme;
-uses Crt, SysUtils, DateUtils, DOS;
+Program Cryme;
+Uses Crt, SysUtils, DateUtils, DOS;
 
+Type
+	prisonerData = Record
+		name: String[50];
+	end;
 
-begin
+Begin
 	Writeln('Hello world');
 	Writeln('Testing my github account');
-end.
+End.
