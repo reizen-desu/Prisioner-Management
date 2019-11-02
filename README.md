@@ -17,6 +17,9 @@ The source-code will be concentrated on a single file. The essence of the job be
 
 ### Structure of the program :fire:
 
+##### First Run
+
+
 ##### Main Menu
 - [ ] Prisoners
 - [ ] Visitors
@@ -40,7 +43,7 @@ The source-code will be concentrated on a single file. The essence of the job be
 
 ##### Configuration
 - [ ] Set up operator 
-- [ ] 
+- [ ] Jail status 
 - [ ] Change user-name/password
 - [ ] Backup
 - [ ] Erase everything
