@@ -20,8 +20,6 @@ The source-code will be concentrated on a single file. The essence of the job be
 ##### First Run
 - [ ] Create administrator account
 - [ ] Set up limits (number of cells, operators)
-- [ ] Create administrator account
-
 
 ##### Main Menu
 - [ ] Prisoners
