@@ -22,3 +22,14 @@ The source-code will be concentrated on a single file. The essence of the job be
 - [ ] Visitors
 - [ ] Configuration
 - [ ] Help
+
+##### Prisoners
+- [ ] Register
+- [ ] List
+- [ ] Modify
+- [ ] Release
+- [ ] Search
+
+
+
+- [ ] 
