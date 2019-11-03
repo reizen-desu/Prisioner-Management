@@ -7,9 +7,9 @@ Type
 		name: String;
 	end;
 
+programa
 	{Variables used by the Prisoner. Necessary to the register form}
 	prisonerData = Record
-		id: Integer;
 		name: String[50];
 	end;
 
@@ -19,7 +19,11 @@ Type
 	end;
 
 
+procedure loginPanel;
+begin
+	
+end;
+
 Begin
-	Writeln('Hello world');
-	Writeln('Testing my github account');
+	loginPanel;
 End.
