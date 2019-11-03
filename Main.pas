@@ -9,6 +9,7 @@ Type
 
 	{Variables used by the Prisoner. Necessary to the register form}
 	prisonerData = Record
+		id: Integer;
 		name: String[50];
 	end;
 
