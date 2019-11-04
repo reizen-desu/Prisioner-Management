@@ -24,6 +24,13 @@ begin
 	
 end;
 
+procedure prisoner;
+begin
+	
+end;
+
+
+
 Begin
 	loginPanel;
 End.
