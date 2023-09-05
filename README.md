@@ -1,5 +1,5 @@
 > [!NOTE] 
-> Hey! Just a quick note: I built this project 4 years ago for a university class using Pascal so this is like a relic of the past, from when I was still taking my baby-steps in programming. There's a lot of obvious errors as the code's a bit on the 'newbish' side. I tried not to change much to leave my initial inexperience intact 😛.
+> **Hey! Just a quick note:** I built this project 4 years ago for a university class using Pascal so this is like a relic of the past, from when I was still taking my baby-steps in programming. There's a lot of obvious errors as the code's a bit on the 'newbish' side. I tried not to change much to leave my initial inexperience intact 😛.
 
 # Prisoner Management
  Simple project that will manage prisoners and visitors in a detention center. Written in Pascal.
